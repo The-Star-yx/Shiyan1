@@ -1,0 +1,14 @@
+E:\Visual 作业\ConsoleGame1\ConsoleGame1\bin\Debug\net6.0\ConsoleGame1.exe
+E:\Visual 作业\ConsoleGame1\ConsoleGame1\bin\Debug\net6.0\ConsoleGame1.deps.json
+E:\Visual 作业\ConsoleGame1\ConsoleGame1\bin\Debug\net6.0\ConsoleGame1.runtimeconfig.json
+E:\Visual 作业\ConsoleGame1\ConsoleGame1\bin\Debug\net6.0\ConsoleGame1.dll
+E:\Visual 作业\ConsoleGame1\ConsoleGame1\bin\Debug\net6.0\ConsoleGame1.pdb
+E:\Visual 作业\ConsoleGame1\ConsoleGame1\obj\Debug\net6.0\ConsoleGame1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual 作业\ConsoleGame1\ConsoleGame1\obj\Debug\net6.0\ConsoleGame1.AssemblyInfoInputs.cache
+E:\Visual 作业\ConsoleGame1\ConsoleGame1\obj\Debug\net6.0\ConsoleGame1.AssemblyInfo.cs
+E:\Visual 作业\ConsoleGame1\ConsoleGame1\obj\Debug\net6.0\ConsoleGame1.csproj.CoreCompileInputs.cache
+E:\Visual 作业\ConsoleGame1\ConsoleGame1\obj\Debug\net6.0\ConsoleGame1.dll
+E:\Visual 作业\ConsoleGame1\ConsoleGame1\obj\Debug\net6.0\refint\ConsoleGame1.dll
+E:\Visual 作业\ConsoleGame1\ConsoleGame1\obj\Debug\net6.0\ConsoleGame1.pdb
+E:\Visual 作业\ConsoleGame1\ConsoleGame1\obj\Debug\net6.0\ConsoleGame1.genruntimeconfig.cache
+E:\Visual 作业\ConsoleGame1\ConsoleGame1\obj\Debug\net6.0\ref\ConsoleGame1.dll

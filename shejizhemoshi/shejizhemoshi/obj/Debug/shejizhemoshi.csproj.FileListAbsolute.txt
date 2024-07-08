@@ -1,0 +1,7 @@
+E:\Visual 作业\shejizhemoshi\shejizhemoshi\bin\Debug\shejizhemoshi.exe.config
+E:\Visual 作业\shejizhemoshi\shejizhemoshi\bin\Debug\shejizhemoshi.exe
+E:\Visual 作业\shejizhemoshi\shejizhemoshi\bin\Debug\shejizhemoshi.pdb
+E:\Visual 作业\shejizhemoshi\shejizhemoshi\obj\Debug\shejizhemoshi.csproj.AssemblyReference.cache
+E:\Visual 作业\shejizhemoshi\shejizhemoshi\obj\Debug\shejizhemoshi.csproj.CoreCompileInputs.cache
+E:\Visual 作业\shejizhemoshi\shejizhemoshi\obj\Debug\shejizhemoshi.exe
+E:\Visual 作业\shejizhemoshi\shejizhemoshi\obj\Debug\shejizhemoshi.pdb

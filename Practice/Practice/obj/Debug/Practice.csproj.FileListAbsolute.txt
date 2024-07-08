@@ -1,0 +1,7 @@
+E:\Visual 作业\Practice\Practice\bin\Debug\Practice.exe.config
+E:\Visual 作业\Practice\Practice\bin\Debug\Practice.exe
+E:\Visual 作业\Practice\Practice\bin\Debug\Practice.pdb
+E:\Visual 作业\Practice\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+E:\Visual 作业\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+E:\Visual 作业\Practice\Practice\obj\Debug\Practice.exe
+E:\Visual 作业\Practice\Practice\obj\Debug\Practice.pdb
