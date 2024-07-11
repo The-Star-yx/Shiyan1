@@ -1,0 +1,7 @@
+E:\Visual 作业\Practice\声明变量类型\bin\Debug\声明变量类型.exe.config
+E:\Visual 作业\Practice\声明变量类型\bin\Debug\声明变量类型.exe
+E:\Visual 作业\Practice\声明变量类型\bin\Debug\声明变量类型.pdb
+E:\Visual 作业\Practice\声明变量类型\obj\Debug\声明变量类型.csproj.AssemblyReference.cache
+E:\Visual 作业\Practice\声明变量类型\obj\Debug\声明变量类型.csproj.CoreCompileInputs.cache
+E:\Visual 作业\Practice\声明变量类型\obj\Debug\声明变量类型.exe
+E:\Visual 作业\Practice\声明变量类型\obj\Debug\声明变量类型.pdb

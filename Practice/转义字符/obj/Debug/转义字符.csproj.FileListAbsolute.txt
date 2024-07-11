@@ -1,0 +1,7 @@
+E:\Visual 作业\Practice\转义字符\bin\Debug\转义字符.exe.config
+E:\Visual 作业\Practice\转义字符\bin\Debug\转义字符.exe
+E:\Visual 作业\Practice\转义字符\bin\Debug\转义字符.pdb
+E:\Visual 作业\Practice\转义字符\obj\Debug\转义字符.csproj.AssemblyReference.cache
+E:\Visual 作业\Practice\转义字符\obj\Debug\转义字符.csproj.CoreCompileInputs.cache
+E:\Visual 作业\Practice\转义字符\obj\Debug\转义字符.exe
+E:\Visual 作业\Practice\转义字符\obj\Debug\转义字符.pdb

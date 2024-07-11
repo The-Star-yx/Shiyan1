@@ -1,0 +1,7 @@
+E:\Visual 作业\Practice\算数运算符\bin\Debug\算数运算符.exe.config
+E:\Visual 作业\Practice\算数运算符\bin\Debug\算数运算符.exe
+E:\Visual 作业\Practice\算数运算符\bin\Debug\算数运算符.pdb
+E:\Visual 作业\Practice\算数运算符\obj\Debug\运算符.csproj.AssemblyReference.cache
+E:\Visual 作业\Practice\算数运算符\obj\Debug\运算符.csproj.CoreCompileInputs.cache
+E:\Visual 作业\Practice\算数运算符\obj\Debug\算数运算符.exe
+E:\Visual 作业\Practice\算数运算符\obj\Debug\算数运算符.pdb

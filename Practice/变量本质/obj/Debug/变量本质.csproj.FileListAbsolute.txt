@@ -1,0 +1,7 @@
+E:\Visual 作业\Practice\变量本质\obj\Debug\变量本质.csproj.AssemblyReference.cache
+E:\Visual 作业\Practice\变量本质\obj\Debug\变量本质.csproj.CoreCompileInputs.cache
+E:\Visual 作业\Practice\变量本质\bin\Debug\变量本质.exe.config
+E:\Visual 作业\Practice\变量本质\bin\Debug\变量本质.exe
+E:\Visual 作业\Practice\变量本质\bin\Debug\变量本质.pdb
+E:\Visual 作业\Practice\变量本质\obj\Debug\变量本质.exe
+E:\Visual 作业\Practice\变量本质\obj\Debug\变量本质.pdb

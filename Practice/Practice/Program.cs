@@ -8,15 +8,27 @@ namespace Practice
 {
     internal class Program
     {
+        
         static void Main(string[] args)
         {
-            Console.WriteLine("Hellow world!");
-            Console.ReadLine();
-            Console.ReadKey();
-            /*
-            Console.ReadLine();
-            Console.ReadKey();
-            */
+            #region  输出
+            //int i = 100;
+            //int j = 200;
+            //Console.WriteLine("Hellow world!");
+            //Console.WriteLine("请输入任意键继续");
+
+            //Console.WriteLine("The beginning is {1}\n{0}\n{1}", i, j);
+            ////Console.ReadLine();
+            //Console.ReadKey();
+            ///*
+            //Console.ReadLine();
+            //Console.ReadKey();
+            //*/
+            #endregion
+            
+          
+
+
         }
     }
 }
