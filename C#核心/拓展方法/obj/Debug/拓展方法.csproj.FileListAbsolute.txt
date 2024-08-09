@@ -1,0 +1,7 @@
+E:\Visual 作业\C#核心\拓展方法\bin\Debug\拓展方法.exe.config
+E:\Visual 作业\C#核心\拓展方法\bin\Debug\拓展方法.exe
+E:\Visual 作业\C#核心\拓展方法\bin\Debug\拓展方法.pdb
+E:\Visual 作业\C#核心\拓展方法\obj\Debug\拓展方法.csproj.AssemblyReference.cache
+E:\Visual 作业\C#核心\拓展方法\obj\Debug\拓展方法.csproj.CoreCompileInputs.cache
+E:\Visual 作业\C#核心\拓展方法\obj\Debug\拓展方法.exe
+E:\Visual 作业\C#核心\拓展方法\obj\Debug\拓展方法.pdb

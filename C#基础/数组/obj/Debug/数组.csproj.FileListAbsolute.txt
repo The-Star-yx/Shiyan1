@@ -1,0 +1,7 @@
+E:\Visual 作业\C#基础\数组\bin\Debug\数组.exe.config
+E:\Visual 作业\C#基础\数组\bin\Debug\数组.exe
+E:\Visual 作业\C#基础\数组\bin\Debug\数组.pdb
+E:\Visual 作业\C#基础\数组\obj\Debug\数组.csproj.AssemblyReference.cache
+E:\Visual 作业\C#基础\数组\obj\Debug\数组.csproj.CoreCompileInputs.cache
+E:\Visual 作业\C#基础\数组\obj\Debug\数组.exe
+E:\Visual 作业\C#基础\数组\obj\Debug\数组.pdb

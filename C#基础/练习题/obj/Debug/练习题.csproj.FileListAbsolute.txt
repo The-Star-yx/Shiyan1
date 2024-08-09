@@ -1,0 +1,7 @@
+E:\Visual 作业\C#基础\练习题\bin\Debug\练习题.exe.config
+E:\Visual 作业\C#基础\练习题\bin\Debug\练习题.exe
+E:\Visual 作业\C#基础\练习题\bin\Debug\练习题.pdb
+E:\Visual 作业\C#基础\练习题\obj\Debug\练习题.csproj.AssemblyReference.cache
+E:\Visual 作业\C#基础\练习题\obj\Debug\练习题.csproj.CoreCompileInputs.cache
+E:\Visual 作业\C#基础\练习题\obj\Debug\练习题.exe
+E:\Visual 作业\C#基础\练习题\obj\Debug\练习题.pdb

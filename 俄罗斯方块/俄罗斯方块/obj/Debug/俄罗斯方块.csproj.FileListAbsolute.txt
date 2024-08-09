@@ -1,0 +1,7 @@
+E:\Visual 作业\俄罗斯方块\俄罗斯方块\bin\Debug\俄罗斯方块.exe.config
+E:\Visual 作业\俄罗斯方块\俄罗斯方块\bin\Debug\俄罗斯方块.exe
+E:\Visual 作业\俄罗斯方块\俄罗斯方块\bin\Debug\俄罗斯方块.pdb
+E:\Visual 作业\俄罗斯方块\俄罗斯方块\obj\Debug\俄罗斯方块.csproj.AssemblyReference.cache
+E:\Visual 作业\俄罗斯方块\俄罗斯方块\obj\Debug\俄罗斯方块.csproj.CoreCompileInputs.cache
+E:\Visual 作业\俄罗斯方块\俄罗斯方块\obj\Debug\俄罗斯方块.exe
+E:\Visual 作业\俄罗斯方块\俄罗斯方块\obj\Debug\俄罗斯方块.pdb

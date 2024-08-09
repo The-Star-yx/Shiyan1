@@ -1,0 +1,7 @@
+E:\Visual 作业\C#进阶\泛型练习\bin\Debug\泛型练习.exe.config
+E:\Visual 作业\C#进阶\泛型练习\bin\Debug\泛型练习.exe
+E:\Visual 作业\C#进阶\泛型练习\bin\Debug\泛型练习.pdb
+E:\Visual 作业\C#进阶\泛型练习\obj\Debug\泛型练习.csproj.AssemblyReference.cache
+E:\Visual 作业\C#进阶\泛型练习\obj\Debug\泛型练习.csproj.CoreCompileInputs.cache
+E:\Visual 作业\C#进阶\泛型练习\obj\Debug\泛型练习.exe
+E:\Visual 作业\C#进阶\泛型练习\obj\Debug\泛型练习.pdb

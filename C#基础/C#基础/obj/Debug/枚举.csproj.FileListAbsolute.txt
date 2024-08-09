@@ -1,0 +1,7 @@
+E:\Visual 作业\C#基础\C#基础\bin\Debug\C#基础.exe.config
+E:\Visual 作业\C#基础\C#基础\bin\Debug\C#基础.exe
+E:\Visual 作业\C#基础\C#基础\bin\Debug\C#基础.pdb
+E:\Visual 作业\C#基础\C#基础\obj\Debug\枚举.csproj.AssemblyReference.cache
+E:\Visual 作业\C#基础\C#基础\obj\Debug\枚举.csproj.CoreCompileInputs.cache
+E:\Visual 作业\C#基础\C#基础\obj\Debug\C#基础.exe
+E:\Visual 作业\C#基础\C#基础\obj\Debug\C#基础.pdb

@@ -1,0 +1,7 @@
+E:\Visual 作业\C#进阶\Queue学习\bin\Debug\Queue学习.exe.config
+E:\Visual 作业\C#进阶\Queue学习\bin\Debug\Queue学习.exe
+E:\Visual 作业\C#进阶\Queue学习\bin\Debug\Queue学习.pdb
+E:\Visual 作业\C#进阶\Queue学习\obj\Debug\Queue学习.csproj.AssemblyReference.cache
+E:\Visual 作业\C#进阶\Queue学习\obj\Debug\Queue学习.csproj.CoreCompileInputs.cache
+E:\Visual 作业\C#进阶\Queue学习\obj\Debug\Queue学习.exe
+E:\Visual 作业\C#进阶\Queue学习\obj\Debug\Queue学习.pdb

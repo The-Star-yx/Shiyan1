@@ -1,0 +1,7 @@
+E:\Visual 作业\C#核心\万物之父的方法\bin\Debug\万物之父的方法.exe.config
+E:\Visual 作业\C#核心\万物之父的方法\bin\Debug\万物之父的方法.exe
+E:\Visual 作业\C#核心\万物之父的方法\bin\Debug\万物之父的方法.pdb
+E:\Visual 作业\C#核心\万物之父的方法\obj\Debug\万物之父的方法.csproj.AssemblyReference.cache
+E:\Visual 作业\C#核心\万物之父的方法\obj\Debug\万物之父的方法.csproj.CoreCompileInputs.cache
+E:\Visual 作业\C#核心\万物之父的方法\obj\Debug\万物之父的方法.exe
+E:\Visual 作业\C#核心\万物之父的方法\obj\Debug\万物之父的方法.pdb

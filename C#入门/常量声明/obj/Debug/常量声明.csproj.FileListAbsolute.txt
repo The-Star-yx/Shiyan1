@@ -1,0 +1,7 @@
+E:\Visual 作业\Practice\常量声明\bin\Debug\常量声明.exe.config
+E:\Visual 作业\Practice\常量声明\bin\Debug\常量声明.exe
+E:\Visual 作业\Practice\常量声明\bin\Debug\常量声明.pdb
+E:\Visual 作业\Practice\常量声明\obj\Debug\常量声明.csproj.AssemblyReference.cache
+E:\Visual 作业\Practice\常量声明\obj\Debug\常量声明.csproj.CoreCompileInputs.cache
+E:\Visual 作业\Practice\常量声明\obj\Debug\常量声明.exe
+E:\Visual 作业\Practice\常量声明\obj\Debug\常量声明.pdb

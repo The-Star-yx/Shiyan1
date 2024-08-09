@@ -1,0 +1,7 @@
+E:\Visual 作业\C#核心\成员变量和访问修饰符\bin\Debug\成员变量和访问修饰符.exe.config
+E:\Visual 作业\C#核心\成员变量和访问修饰符\bin\Debug\成员变量和访问修饰符.exe
+E:\Visual 作业\C#核心\成员变量和访问修饰符\bin\Debug\成员变量和访问修饰符.pdb
+E:\Visual 作业\C#核心\成员变量和访问修饰符\obj\Debug\成员变量和访问修饰符.csproj.AssemblyReference.cache
+E:\Visual 作业\C#核心\成员变量和访问修饰符\obj\Debug\成员变量和访问修饰符.csproj.CoreCompileInputs.cache
+E:\Visual 作业\C#核心\成员变量和访问修饰符\obj\Debug\成员变量和访问修饰符.exe
+E:\Visual 作业\C#核心\成员变量和访问修饰符\obj\Debug\成员变量和访问修饰符.pdb

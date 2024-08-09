@@ -1,0 +1,7 @@
+E:\Visual 作业\C#核心\构造函数和析构函数\bin\Debug\构造函数和析构函数.exe.config
+E:\Visual 作业\C#核心\构造函数和析构函数\bin\Debug\构造函数和析构函数.exe
+E:\Visual 作业\C#核心\构造函数和析构函数\bin\Debug\构造函数和析构函数.pdb
+E:\Visual 作业\C#核心\构造函数和析构函数\obj\Debug\构造函数和析构函数.csproj.AssemblyReference.cache
+E:\Visual 作业\C#核心\构造函数和析构函数\obj\Debug\构造函数和析构函数.csproj.CoreCompileInputs.cache
+E:\Visual 作业\C#核心\构造函数和析构函数\obj\Debug\构造函数和析构函数.exe
+E:\Visual 作业\C#核心\构造函数和析构函数\obj\Debug\构造函数和析构函数.pdb

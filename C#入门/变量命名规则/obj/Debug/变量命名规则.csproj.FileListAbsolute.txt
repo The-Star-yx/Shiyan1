@@ -1,0 +1,7 @@
+E:\Visual 作业\Practice\变量命名规则\bin\Debug\变量命名规则.exe.config
+E:\Visual 作业\Practice\变量命名规则\bin\Debug\变量命名规则.exe
+E:\Visual 作业\Practice\变量命名规则\bin\Debug\变量命名规则.pdb
+E:\Visual 作业\Practice\变量命名规则\obj\Debug\变量命名规则.csproj.AssemblyReference.cache
+E:\Visual 作业\Practice\变量命名规则\obj\Debug\变量命名规则.csproj.CoreCompileInputs.cache
+E:\Visual 作业\Practice\变量命名规则\obj\Debug\变量命名规则.exe
+E:\Visual 作业\Practice\变量命名规则\obj\Debug\变量命名规则.pdb

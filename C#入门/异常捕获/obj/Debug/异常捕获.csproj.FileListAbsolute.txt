@@ -1,0 +1,7 @@
+E:\Visual 作业\Practice\异常捕获\bin\Debug\异常捕获.exe.config
+E:\Visual 作业\Practice\异常捕获\bin\Debug\异常捕获.exe
+E:\Visual 作业\Practice\异常捕获\bin\Debug\异常捕获.pdb
+E:\Visual 作业\Practice\异常捕获\obj\Debug\异常捕获.csproj.AssemblyReference.cache
+E:\Visual 作业\Practice\异常捕获\obj\Debug\异常捕获.csproj.CoreCompileInputs.cache
+E:\Visual 作业\Practice\异常捕获\obj\Debug\异常捕获.exe
+E:\Visual 作业\Practice\异常捕获\obj\Debug\异常捕获.pdb

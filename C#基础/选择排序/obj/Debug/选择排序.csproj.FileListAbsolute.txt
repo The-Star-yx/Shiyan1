@@ -1,0 +1,7 @@
+E:\Visual 作业\C#基础\选择排序\bin\Debug\选择排序.exe.config
+E:\Visual 作业\C#基础\选择排序\bin\Debug\选择排序.exe
+E:\Visual 作业\C#基础\选择排序\bin\Debug\选择排序.pdb
+E:\Visual 作业\C#基础\选择排序\obj\Debug\选择排序.csproj.AssemblyReference.cache
+E:\Visual 作业\C#基础\选择排序\obj\Debug\选择排序.csproj.CoreCompileInputs.cache
+E:\Visual 作业\C#基础\选择排序\obj\Debug\选择排序.exe
+E:\Visual 作业\C#基础\选择排序\obj\Debug\选择排序.pdb

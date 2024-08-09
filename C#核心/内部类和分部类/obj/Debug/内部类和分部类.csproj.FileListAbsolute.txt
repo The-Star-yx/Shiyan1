@@ -1,0 +1,7 @@
+E:\Visual 作业\C#核心\内部类和分部类\bin\Debug\内部类和分部类.exe.config
+E:\Visual 作业\C#核心\内部类和分部类\bin\Debug\内部类和分部类.exe
+E:\Visual 作业\C#核心\内部类和分部类\bin\Debug\内部类和分部类.pdb
+E:\Visual 作业\C#核心\内部类和分部类\obj\Debug\内部类和分部类.csproj.AssemblyReference.cache
+E:\Visual 作业\C#核心\内部类和分部类\obj\Debug\内部类和分部类.csproj.CoreCompileInputs.cache
+E:\Visual 作业\C#核心\内部类和分部类\obj\Debug\内部类和分部类.exe
+E:\Visual 作业\C#核心\内部类和分部类\obj\Debug\内部类和分部类.pdb

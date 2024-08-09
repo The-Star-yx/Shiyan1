@@ -1,0 +1,7 @@
+E:\Visual 作业\Practice\隐式转换\bin\Debug\隐式转换.exe.config
+E:\Visual 作业\Practice\隐式转换\bin\Debug\隐式转换.exe
+E:\Visual 作业\Practice\隐式转换\bin\Debug\隐式转换.pdb
+E:\Visual 作业\Practice\隐式转换\obj\Debug\隐式转换.csproj.AssemblyReference.cache
+E:\Visual 作业\Practice\隐式转换\obj\Debug\隐式转换.csproj.CoreCompileInputs.cache
+E:\Visual 作业\Practice\隐式转换\obj\Debug\隐式转换.exe
+E:\Visual 作业\Practice\隐式转换\obj\Debug\隐式转换.pdb

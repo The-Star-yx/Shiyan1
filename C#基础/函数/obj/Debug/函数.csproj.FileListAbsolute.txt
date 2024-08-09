@@ -1,0 +1,7 @@
+E:\Visual 作业\C#基础\函数\bin\Debug\函数.exe.config
+E:\Visual 作业\C#基础\函数\bin\Debug\函数.exe
+E:\Visual 作业\C#基础\函数\bin\Debug\函数.pdb
+E:\Visual 作业\C#基础\函数\obj\Debug\函数.csproj.AssemblyReference.cache
+E:\Visual 作业\C#基础\函数\obj\Debug\函数.csproj.CoreCompileInputs.cache
+E:\Visual 作业\C#基础\函数\obj\Debug\函数.exe
+E:\Visual 作业\C#基础\函数\obj\Debug\函数.pdb

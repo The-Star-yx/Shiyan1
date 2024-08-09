@@ -1,0 +1,7 @@
+E:\Visual 作业\C#核心\静态成员\bin\Debug\静态成员.exe.config
+E:\Visual 作业\C#核心\静态成员\bin\Debug\静态成员.exe
+E:\Visual 作业\C#核心\静态成员\bin\Debug\静态成员.pdb
+E:\Visual 作业\C#核心\静态成员\obj\Debug\静态成员静态类.csproj.AssemblyReference.cache
+E:\Visual 作业\C#核心\静态成员\obj\Debug\静态成员静态类.csproj.CoreCompileInputs.cache
+E:\Visual 作业\C#核心\静态成员\obj\Debug\静态成员.exe
+E:\Visual 作业\C#核心\静态成员\obj\Debug\静态成员.pdb

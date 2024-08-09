@@ -1,0 +1,7 @@
+E:\Visual 作业\C#核心\面向对象相关string\bin\Debug\面向对象相关string.exe.config
+E:\Visual 作业\C#核心\面向对象相关string\bin\Debug\面向对象相关string.exe
+E:\Visual 作业\C#核心\面向对象相关string\bin\Debug\面向对象相关string.pdb
+E:\Visual 作业\C#核心\面向对象相关string\obj\Debug\面向对象相关string.csproj.AssemblyReference.cache
+E:\Visual 作业\C#核心\面向对象相关string\obj\Debug\面向对象相关string.csproj.CoreCompileInputs.cache
+E:\Visual 作业\C#核心\面向对象相关string\obj\Debug\面向对象相关string.exe
+E:\Visual 作业\C#核心\面向对象相关string\obj\Debug\面向对象相关string.pdb
